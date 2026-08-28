@@ -16,9 +16,10 @@ A primeira versão contempla:
 2. Registro automático de data e hora.
 3. Armazenamento automático das respostas em Google Sheets.
 4. Organização da lista de espera.
-5. Cálculo automático da idade.
-6. Preparação de campos administrativos para acompanhamento.
-7. Base para indicadores de demanda reprimida.
+5. Preparação de campos administrativos para acompanhamento.
+6. Base para indicadores de demanda reprimida.
+
+O cálculo automático da idade será implementado na **Fase 3 — Automação básica**, conforme o ROADMAP.md.
 
 ## 3. Fora do escopo inicial
 
@@ -34,7 +35,7 @@ A primeira versão contempla:
 
 O formulário é preenchido por profissionais da instituição a partir das informações fornecidas pelo responsável.
 
-A data de inscrição é gerada automaticamente pelo Google Forms por meio do carimbo de data/hora. A idade não deve ser digitada manualmente; deve ser calculada a partir da data de nascimento.
+A data de inscrição é gerada automaticamente pelo Google Forms por meio do carimbo de data/hora. A idade não deve ser digitada manualmente; será calculada a partir da data de nascimento durante a etapa de automação.
 
 ## 5. Relação com as oficinas
 
