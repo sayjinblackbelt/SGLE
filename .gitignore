@@ -1,0 +1,24 @@
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Google Apps Script / local tooling
+node_modules/
+.clasp.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Exports and sensitive operational data
+exports/
+backup/
+*.csv
+*.xlsx
+*.pdf
