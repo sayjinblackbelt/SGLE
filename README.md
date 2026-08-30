@@ -1,12 +1,28 @@
 # SGLE — Sistema de Gestão de Lista de Espera
 
+**Início:** 2025  
 **Versão:** 1.0.0  
-**Status:** Em desenvolvimento  
+**Status:** Em desenvolvimento contínuo  
 **Desenvolvedor:** Filipe Gimenes de Morais
+
+## 💼 Origem do projeto
+
+O SGLE surgiu em **2025** a partir da identificação de uma **demanda reprimida** e da necessidade de melhorar a organização e o acompanhamento de pessoas aguardando vagas em atividades e serviços.
+
+A necessidade foi discutida inicialmente em uma **reunião de colegiado da gestão**. A partir desse contexto, o planejamento da solução foi desenvolvido em conjunto com a **coordenação pedagógica**, e a elaboração das regras e necessidades do fluxo contou com a colaboração de **duas profissionais da área de serviço social**.
+
+O desafio prático de transformar um processo predominantemente manual em um fluxo digital estruturado foi um dos fatores que impulsionaram o aprofundamento nos estudos de **automação, Google Workspace e Google Apps Script**.
+
+Assim, o SGLE passou a reunir duas dimensões:
+
+- uma resposta a uma necessidade real de gestão e organização;
+- um projeto prático de aprendizagem e evolução em automação.
+
+Para preservar a privacidade e a identidade da organização original, este repositório utiliza uma abordagem genérica e não identifica a instituição onde a demanda foi observada.
 
 ## Objetivo
 
-O Sistema de Gestão de Lista de Espera (SGLE) tem como objetivo digitalizar e organizar o cadastro de educandos que aguardam disponibilidade de vagas nas atividades da instituição.
+O Sistema de Gestão de Lista de Espera (SGLE) tem como objetivo digitalizar e organizar o cadastro de educandos que aguardam disponibilidade de vagas em atividades e serviços com disponibilidade limitada.
 
 O sistema substitui o preenchimento manual da lista de espera por um fluxo integrado entre Google Forms e Google Sheets, com evolução planejada para automações em Google Apps Script, indicadores, dashboard e apoio à gestão de vagas.
 
@@ -14,11 +30,10 @@ O SGLE **não substitui a matrícula presencial**. O formulário registra o educ
 
 ## Missão
 
-Transformar o processo manual de cadastro da lista de espera em um sistema simples, padronizado e automatizado, reduzindo retrabalho, erros de preenchimento e tempo administrativo, ao mesmo tempo em que melhora a qualidade dos indicadores institucionais.
+Transformar o processo manual de cadastro da lista de espera em um sistema simples, padronizado e automatizado, reduzindo retrabalho, erros de preenchimento e tempo administrativo, ao mesmo tempo em que melhora a qualidade dos indicadores de gestão.
 
 ## Público-alvo
 
-- Fundação Eufraten
 - ONGs e OSCs
 - Projetos sociais
 - Instituições educacionais
@@ -38,12 +53,12 @@ Transformar o processo manual de cadastro da lista de espera em um sistema simpl
 - Apoiar a análise da ocupação e disponibilidade das oficinas.
 - Permitir evolução futura para módulos de matrícula, frequência e gestão de oficinas.
 
-## Fluxo institucional
+## Fluxo operacional
 
 ```text
 Responsável / família
         ↓
-Equipe da instituição
+Equipe responsável
         ↓
 Cadastro na Lista de Espera
         ↓
@@ -59,7 +74,7 @@ Surgimento de vaga
         ↓
 Convocação
         ↓
-Matrícula presencial
+Processo de ingresso presencial
         ↓
 Definição das oficinas conforme disponibilidade
 ```
@@ -132,7 +147,7 @@ Na fase inicial, a prioridade é documentação e funcionamento do fluxo Forms �
 
 **Lista de Espera ≠ Matrícula.**
 
-O SGLE registra a intenção de ingresso e organiza a demanda reprimida. A matrícula é presencial e somente ocorre quando houver disponibilidade e após os procedimentos institucionais definidos pela equipe.
+O SGLE registra a intenção de ingresso e organiza a demanda reprimida. A matrícula é presencial e somente ocorre quando houver disponibilidade e após os procedimentos definidos pela equipe responsável.
 
 ## Privacidade e proteção de dados
 
@@ -145,11 +160,11 @@ Nunca devem ser publicados no GitHub:
 - telefones;
 - endereços ou dados que permitam identificação indevida;
 - informações de deficiência ou saúde;
-- planilhas reais da instituição;
+- planilhas reais utilizadas no contexto de origem;
 - credenciais, tokens ou chaves de API.
 
-A implementação deve observar as políticas internas da instituição e os princípios aplicáveis da LGPD, especialmente necessidade, finalidade, segurança e controle de acesso.
+A implementação deve observar as políticas e procedimentos aplicáveis ao contexto de implementação e os princípios aplicáveis da LGPD, especialmente necessidade, finalidade, segurança e controle de acesso.
 
 ## Licença
 
-Projeto desenvolvido para uso educacional e institucional. A definição de licença aberta específica será realizada em etapa posterior, caso necessário.
+Projeto desenvolvido a partir de uma necessidade real de gestão e organização, com finalidade prática, educacional e de demonstração técnica. A definição de licença aberta específica será realizada em etapa posterior, caso necessário.
