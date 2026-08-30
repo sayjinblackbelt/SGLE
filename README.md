@@ -5,7 +5,7 @@
 **Início:** 2025  
 **Versão:** 1.0.0  
 **Status:** Em desenvolvimento contínuo  
-**Desenvolvedor:** Filipe Gimenes de Morais
+**Desenvolvedor:** Filipe G Morais
 
 ## 💼 Origem do projeto
 
@@ -170,3 +170,12 @@ A implementação deve observar as políticas e procedimentos aplicáveis ao con
 ## Licença
 
 Projeto desenvolvido a partir de uma necessidade real de gestão e organização, com finalidade prática, educacional e de demonstração técnica. A definição de licença aberta específica será realizada em etapa posterior, caso necessário.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/waiting-list-management-system
