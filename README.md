@@ -1,5 +1,7 @@
 # SGLE — Sistema de Gestão de Lista de Espera
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 **Início:** 2025  
 **Versão:** 1.0.0  
 **Status:** Em desenvolvimento contínuo  
